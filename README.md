@@ -59,25 +59,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=natthaphon14451-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natthaphon14451-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📫 Let's Connect:
-
-<p align="left">
-  <a href="mailto:natthaphon14451@gmail.com">
-    <img src="https://img.shields.io/badge/Email-natthaphon14451%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-252525?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
 
 - 🗣️ **Pronouns:** แปปซี่ (Pepis)
 - ⚡ **Fun Fact:** When I'm not writing automations or building apps, I love testing my reaction time and strategy in tactical FPS games 🎮
