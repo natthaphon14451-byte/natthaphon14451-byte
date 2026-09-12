@@ -59,7 +59,12 @@
 
 
 - 🗣️ **Pronouns:** แปปซี่ (Pepis)
-- ⚡ **Fun Fact:** When I'm not writing automations or building apps, I love testing my reaction time and strategy in tactical FPS games 🎮
-- [![Email](https://img.shields.io/badge/Email-natthaphon14451%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natthaphon14451@gmail.com)
-Looking forward to connecting and collaborating! 🤝
+ <p align="left">
+  <a href="mailto:natthaphon14451@gmail.com">
+    <img src="https://img.shields.io/badge/Email-natthaphon14451%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/natthaphon14451-byte/Portfolio-natthaphon" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
