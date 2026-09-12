@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Natthaphon (Pepis) a.k.a @natthaphon14451-byte
 
 <p align="left">
-  <a href="https://github.com/natthaphon14451-byte">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&multiline=true&width=500&height=60&lines=Web+Developer+%26+Automation+Engineer;Building+Systems+that+Work+Smarter;AI+Integrations+%7C+APIs+%7C+Modern+Pipelines" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&multiline=true&width=500&height=60&lines=Web+Developer+%26+Automation+Engineer;Building+Systems+that+Work+Smarter" alt="Typing SVG" />
 </p>
 
 🎓 Currently a 4th-year ICT student at **Sripatum University**.  
