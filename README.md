@@ -63,7 +63,7 @@
   <a href="mailto:natthaphon14451@gmail.com">
     <img src="https://img.shields.io/badge/Email-natthaphon14451%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/natthaphon14451-byte/Portfolio-natthaphon" target="_blank">
+  <a href="[https://github.com/natthaphon14451-byte/Portfolio-natthaphon](https://natthaphon14451-byte.github.io/Pepsi-portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
